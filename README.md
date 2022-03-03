@@ -1,5 +1,5 @@
 # Beyong TEX86: GDGTs inform the marine archaeal community ecology and evolution
-This is a repository for "Beyong TEX86: GDGTs inform the marine archaeal community ecology and evolution" project.
+This is a repository for the manuscript "Archaeal lipids trace ecology and evolution of marine ammonia-oxidizing archae" under review at PNAS.
 
 
 
