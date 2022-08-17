@@ -1,4 +1,4 @@
-# Beyong TEX86: GDGTs inform the marine archaeal community ecology and evolution
+# Archaeal lipids trace ecology and evolution of marine ammonia-oxidizing archaea
 This is a repository for "Archaeal lipids trace ecology and evolution of marine ammonia-oxidizing archae" that is published in PNAS (available online July 29, 2022).
 
 Full citation can be found as follow:
